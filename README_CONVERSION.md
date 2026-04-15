@@ -1,4 +1,6 @@
 Use at own risk:
+based on https://github.com/simon2x/ST7796S
+
 """
 CONVERSION COMPLETE: C to MicroPython Driver Conversion Summary
 ================================================================
